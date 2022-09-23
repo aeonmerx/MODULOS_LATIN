@@ -1,5 +1,4 @@
  // Crear un objeto:
-// BASE DE DATOS  ASTROLOGICK (LATIN) -- FRASES FAMOSAS
 const frase1 =
 { 
 Id : "1",
@@ -390,5 +389,5 @@ Español:"Las macetas vacias son las que hacen más ruido",
     }
   }
   
- // ESTE SISTEMA FUE REALIZADO POR WILLIAM RATIVA DEL COLECTIVO CREDO IN CAUSAE
- //                  2022 TODOS LOS DERECHOS RESERVADOS
+ // ESTE SISTEMA FUE REALIZADO POR WILLIAM RATIVA 
+ //          AEON MERX        2022 TODOS LOS DERECHOS RESERVADOS
